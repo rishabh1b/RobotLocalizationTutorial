@@ -2,7 +2,7 @@
 Localization Demonstration Using Jupyter notebook
 
 ## Localization using Kalman Filtering
-<p align="center">
+<p align="left">
   <img src="/images/KalmanFilterDemo.png" width="600" height="600" alt="Localization using Kalman Filter"/>
 </p>
 
